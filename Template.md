@@ -58,7 +58,8 @@ form .submit{
     font-weight: bold;
     letter-spacing: 2px;
     height: 50px;
-    margin-top:20px; 
+    margin-top:10px; 
+
 }
 
 form.submit:hover
